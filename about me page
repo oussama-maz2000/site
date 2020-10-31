@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet"  href="./style.css">
+	<title>About BeYond</title>
+</head>
+<body>
+<div class="container">
+	<div class="about">
+		<div class="text">
+			
+			<div class="line"></div>
+		</div>
+	</div>
+	<div class="content">
+		<p>
+			The objective of <b>B</b>eyondcode is to provide you with a working knowledge of Java applications. We'll start with the basics, starting with installing Java on different operating systems like Windows, Mac, and Linux on a variety of IDEs, for example. Eclipse, IntelliJ Idea, Netbeans etc. Then we will learn all the basic concepts of Java programming like Variables, Data Types and Operators, Types of Control Statements, Classes, Objects, Constructors, Initialization Blocks, Type of Variables, Methods and Garbage Collection, Object Oriented programming concepts: Encapsulation, inheritance, ploymorphism and abstraction, access specifier, String, StringBuilder and Wrapper classes, Exception, enumeration.
+		</p>
+	</div>
+</div>
+<footer> Copyright &copy; start code 2020</footer>
+</body>
+</html>
