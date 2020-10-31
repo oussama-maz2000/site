@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>lLearning with PDF</title>
+</head>
+<body>
+	
+	
+<embed src="Head_First_Java.pdf" type="application/pdf" width="100%" height="600px" />
+</body>
+</html>
