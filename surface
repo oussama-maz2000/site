@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BEYOND CODE</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	
+<header>
+	<div class="main">
+		<div class="logo">
+			<img src="https://images-workbench.99static.com/8bnnoWBH6JhJ8DmJYT7a9GBDK_s=/99designs-contests-attachments/62/62343/attachment_62343845">
+		</div>
+		<ul>
+			<li class="active"><a href="#">Home</a></li>
+		
+			<li><a href="file:///C:/Users/admin/Desktop/oussama_site/login%20site/index.html">Log in</a></li>
+			<li><a href="file:///C:/Users/admin/Desktop/oussama_site/about%20me/index.html">About </a></li>
+			<li><a href="file:///C:/Users/admin/Desktop/oussama_site/contact/contact.html">Contact</a></li>
+		</ul>
+	</div>
+	<div class="title">
+		<h1> BEYOND CODE</h1>
+	</div>
+	<div class="button">
+		<a href="file:///C:/Users/admin/Desktop/oussama_site/learn%20video/index.html" class="btn"> learn video</a>
+		<a href="file:///C:/Users/admin/Desktop/oussama_site/pdf%20site/index.html" class="btn"> learn pdf</a>
+
+	
+	</div>
+</header>
+
+</body>
+</html>
+
