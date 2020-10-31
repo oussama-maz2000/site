@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>learn video</title>
+	<link rel="stylesheet"  href="style.css">
+</head>
+<body>
+	
+		<video controls>
+		<source src="vid.mp4" type="video/mp4"  width="100%" height="600px"> 
+		</video>
+		
+	
+</body>
+</html>
